@@ -1,0 +1,11 @@
+[project]
+name = "drawio-bom"
+version = "0.1.0"
+description = "Simple tool to extract specially crafted data from draw.io diagrams into csv BOM (Bill Of Materials)."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["typing_extensions", "typer"]
+license = { text = "MIT" }
+
+[project.scripts]
+drawio-bom = "drawio_bom:entrypoint"

@@ -1,0 +1,67 @@
+<mxfile host="Electron" compressed="false" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram id="8x5lvahnz3so3iK3cRQX" name="Page-1">
+    <mxGraphModel dx="400" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="blue" BOM_ID="blue" id="2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="120" y="120" width="110" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="blue" BOM_ID="blue" id="4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="120" y="160" width="110" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="blue" BOM_ID="blue" id="5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="120" y="200" width="110" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="half of blue" BOM_ID="blue" BOM_AMOUNT="0.5" id="6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="120" y="240" width="60" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="double blue" BOM_ID="blue" BOM_AMOUNT="2" id="7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="120" y="280" width="220" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="red" BOM_ID="red" id="9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+            <mxGeometry x="360" y="120" width="110" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="125% red" BOM_ID="red" BOM_AMOUNT="1.25" id="10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+            <mxGeometry x="360" y="160" width="140" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="blue" BOM_ID="blue" id="11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="230" y="200" width="110" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="red" BOM_ID="red" id="12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+            <mxGeometry x="360" y="200" width="110" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="14" value="Should yield 6.5 units of blue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="350" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="220" y="220" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Should yield 3.25 units of red" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="420" y="260" width="20" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
